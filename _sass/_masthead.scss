@@ -28,3 +28,11 @@
   line-height: 1.25rem;
   word-spacing: 1rem;
 }
+
+
+.nav a:visited {
+  color: aqua !important;
+  text-underline-offset: 4px;
+  text-decoration-thickness: .1em;
+  text-decoration-style: wavy;
+}
